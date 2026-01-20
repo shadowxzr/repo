@@ -8,4 +8,5 @@ void main() {
 
 void priora() {
 	printf("2114");
+	printf("500");
 }
