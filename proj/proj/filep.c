@@ -9,3 +9,7 @@ void main() {
 void func() {
 	printf("1");
 }
+
+void may() {
+	printf("may");
+}
