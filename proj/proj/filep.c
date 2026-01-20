@@ -5,3 +5,11 @@ void main() {
 	printf("2");
 	printf("30");
 }
+
+void func() {
+	printf("1");
+}
+
+void may() {
+	printf("may");
+}
