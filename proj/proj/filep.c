@@ -5,3 +5,7 @@ void main() {
 	printf("2");
 	printf("30");
 }
+
+void priora() {
+	printf("2114");
+}
